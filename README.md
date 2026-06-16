@@ -24,8 +24,8 @@ As seguintes fontes foram utilizadas no NotebookLM:
 2. [ArXiv – AI Observability (2026)](https://arxiv.org/html/2604.26152v1)
 3. [ResearchGate – AI-Powered Monitoring for Cloud)](https://www.researchgate.net/publication/387403869_AI-Powered_Monitoring_Next-Generation_Observability_Solutions_for_Cloud_Infrastructure/fulltext/676c414ee74ca64e1f2b72a3/AI-Powered-Monitoring-Next-Generation-Observability-Solutions-for-Cloud-Infrastructure.pdf)
 4. [UptimeRobot – Guia completo de AI Observability (2026)](https://uptimerobot.com/knowledge-hub/observability/ai-observability-the-complete-guide/)
-5. [IJIRMPS – AIOps em redes e segurança](https://www.ijirmps.org/papers/2023/4/231633.pdf) *(opcional)*
-6. [IBM – AIOps Observability](https://link.springer.com/article/10.1007/s10922-025-10001-w) *(opcional)*
+5. [IJIRMPS – AIOps em redes e segurança](https://www.ijirmps.org/papers/2023/4/231633.pdf) 
+6. [IBM – AIOps Observability](https://link.springer.com/article/10.1007/s10922-025-10001-w)
 7. [Cisco – Observability + AIOps (ebook)](https://www.cisco.com/c/dam/en/us/solutions/collateral/full-stack-observability/observability-demystifying-aiops.pdf)
 8. [Motadata – Diferença entre AIOps e Observabilidade](https://www.motadata.com/blog/aiops-vs-observability)
 9. [Microsoft Learn – Azure Observability Agent (IA)](https://learn.microsoft.com/en-us/azure/azure-monitor/aiops/observability-agent-overview)
