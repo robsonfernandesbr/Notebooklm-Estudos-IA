@@ -371,6 +371,7 @@ Ferramenta de visualização usada junto com Zabbix e Prometheus.
 
 ### ⏱️ Latência
 Tempo que uma requisição leva para ser processada.
+
 ---
 
 ### 💡 Prompts reutilizáveis
