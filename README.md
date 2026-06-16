@@ -1,6 +1,6 @@
 # Notebooklm-Estudos-IA
 Guia de Estudos sobre o NotebookLM
-# 📘 NotebookLM - Estudos sobre [SEU TEMA]
+# 📘 NotebookLM - Estudos sobre Inteligencia Artificial Aplicada a Monitoramento e Observabilidade
 
 ## 🎯 Contexto e Objetivos
 
